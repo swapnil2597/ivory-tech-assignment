@@ -1,0 +1,3 @@
+[submodule "task4-admin-panel"]
+	path = task4-admin-panel
+	url = https://github.com/swapnil2597/ivory-notif-admin-panel
